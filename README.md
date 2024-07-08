@@ -13,7 +13,7 @@ Data Sources
 -Public datasets sourced from police departments or government websites.
 -Ensure the dataset covers multiple years and includes geographical information for mapping.
 
-Tools Used
+Tools Used <br>
 -Python Libraries: Pandas, Matplotlib, Seaborn, Folium
 -Jupyter Notebooks: Integrated environment for data analysis and visualization
 
